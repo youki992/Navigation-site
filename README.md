@@ -6,9 +6,9 @@
 
 效果图如下：
 
-![Demo](images/1.png)
+![image](http://github.com/youki992/Navigation-site/raw/master/images/1.png)
 
-![Demo](images/2.png)
+![image](http://github.com/youki992/Navigation-site/raw/master/images/2.png)
 
 ## 使用方法
 
